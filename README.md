@@ -1,2 +1,2 @@
-# bruner-vygotsky
-bruner and vygotsky
+# Piaget and Vygotsky
+Piaget and Vygotsky
